@@ -1,7 +1,6 @@
 ### Hi there, I'm Tomisin 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working to strengthen my communication, leadership, and technical abilities.
 
