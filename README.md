@@ -17,6 +17,7 @@
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
         <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
         <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+	<a href="#"><img alt="Sql"src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=pink"></a>
 </p>
 
 ## 🙋‍♀️ Let's Connect
