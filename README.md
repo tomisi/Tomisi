@@ -1,4 +1,8 @@
- 🔭 I’m currently working on
+
+<h1 align="center">Hi , I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning 
 - 👨‍💻 All of my projects are available 
 - 📝 I regularly write articles on
@@ -7,9 +11,6 @@
 - 📄 Know about my experienc
 - ⚡ Fun fact **I'm familiar 
 
-
-<h1 align="center">Hi , I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&theme=radical)
 ## Software & Tools
