@@ -1,3 +1,13 @@
+ 🔭 I’m currently working on
+- 🌱 I’m currently learning 
+- 👨‍💻 All of my projects are available 
+- 📝 I regularly write articles on
+- 💬 Ask me about 
+- 📫 How to reach me 
+- 📄 Know about my experienc
+- ⚡ Fun fact **I'm familiar 
+
+
 <h1 align="center">Hi , I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
@@ -16,8 +26,13 @@
         <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
         <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+	<a href="#"><img alt="java"src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"></a>
         <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-	<a href="#"><img alt="Sql"src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=pink"></a>
+	<a href="#"><img alt="Sql"src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white"></a>
+	<a href="#"><img alt="Php"src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white"></a>
+	<a href="#"><img alt="Npm"src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
+	<ahref="#"><img alt="java"src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"></a>
+	
 </p>
 
 ## 🙋‍♀️ Let's Connect
