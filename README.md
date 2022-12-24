@@ -2,9 +2,9 @@
 <h1 align="center">Hi , I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning Machine learning
-- 💬 Ask me about Data Analysis
+- 🔭 I’m currently working on improving my skills 
+- 🌱 I’m currently learning Machine learning & data structures
+- 💬 Ask me about Data Analysis & project management 
 - 📫 How to reach me bamideletomisiin@gmail.com
 
 
@@ -29,7 +29,7 @@
 	<a href="#"><img alt="Php"src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white"></a>
 	<a href="#"><img alt="Npm"src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
 	<ahref="#"><img alt="java"src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"></a>
-	
+
 </p>
 
 ## 🙋‍♀️ Let's Connect
