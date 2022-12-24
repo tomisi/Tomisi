@@ -3,13 +3,9 @@
 <p align="center">
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning 
-- 👨‍💻 All of my projects are available 
-- 📝 I regularly write articles on
-- 💬 Ask me about 
-- 📫 How to reach me 
-- 📄 Know about my experienc
-- ⚡ Fun fact **I'm familiar 
+- 🌱 I’m currently learning Machine learning
+- 💬 Ask me about Data Analysis
+- 📫 How to reach me bamideletomisiin@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&theme=radical)
