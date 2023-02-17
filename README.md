@@ -3,7 +3,7 @@
 <p align="center">
 
 - 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Machine learning, data structures, Flutter & Dart
+- 🌱 I’m currently learning Machine learning/ AI, data structures, Flutter & Dart
 - 💬 Ask me about Data Analysis & project management 
 - 📫 How to reach me bamideletomisiin@gmail.com
 
