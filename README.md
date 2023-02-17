@@ -30,14 +30,6 @@
 	<a href="#"><img alt="Npm"src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
 	<ahref="#"><img alt="java"src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"></a>
 
-	
-<h3 align="left">Github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomisi&show_icons=true&locale=en&layout=compact" alt="Tomisi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&locale=en" alt="tomisi" /></p>
-
-</p>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
         <a href="https://github.com/tomisi/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
