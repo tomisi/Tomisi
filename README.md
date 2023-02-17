@@ -32,11 +32,9 @@
 
 	
 <h3 align="left">Github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delyc&show_icons=true&locale=en&layout=compact" alt="delyc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomisi&show_icons=true&locale=en&layout=compact" alt="Tomisi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delyc&show_icons=true&locale=en" alt="delyc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delyc&" alt="delyc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&locale=en" alt="tomisi" /></p>
 
 </p>
 
