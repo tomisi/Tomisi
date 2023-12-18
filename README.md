@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   
@@ -12,7 +12,10 @@
 ## Software & Tools ⚙️
 
 <p>
-        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+        <a href="#"><img alt="Languages: Python"src="http://img.shields.io/badge/Languages:%20Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+	<a href="#"><img alt="Library: React"src="https://img.shields.io/badge/Library:%20React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>
+	<a href="#"><img alt="Database: MongoDB"src="https://img.shields.io/badge/Database:%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
+	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
         <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
@@ -29,7 +32,6 @@
 	<a href="#"><img alt="Sql"src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white"></a>
 	<a href="#"><img alt="Php"src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white"></a>
 	<a href="#"><img alt="Npm"src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
-	<ahref="#"><img alt="java"src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"></a>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
