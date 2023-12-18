@@ -2,7 +2,7 @@
 
 <p align="center">
   
-- 🔭 Dedicated to advancing my software engineering expertise
+- 🔭 Dedicated to advancing my software engineering skills
 - 🌱 Currently immersed in mastering data structures, algorithms, and their practical applications
 - 💬 Open to constructive discussions and collaborative problem-solving
 - 📫 Reach me at bamideletomisiin@gmail.com
