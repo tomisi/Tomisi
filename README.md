@@ -1,13 +1,13 @@
-
-<h1 align="center">Hi , I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-- 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Machine learning/ AI, data structures, Flutter & Dart
-- 💬 Ask me about Data Analysis & project management 
-- 📫 How to reach me bamideletomisiin@gmail.com
+- 🔭 Constantly honing my software skills 
+- 🌱 Currently immersed in learning data structures, algorithms, and their applications
+- 💬 Open to collaborative discussions and coding challenges
+- 📫 Reach me at bamideletomisiin@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&theme=radical)
+
 ## Software & Tools ⚙️
 <p>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -36,4 +36,3 @@
 	<a href="https://github.com/tomisi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bamidele-oluwatominsin-225aa819a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
