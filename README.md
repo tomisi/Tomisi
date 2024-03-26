@@ -1,15 +1,15 @@
-<h1 align="center">Hello, I'm Bamidele Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   
-- 🔭 Dedicated to advancing my data engineering skills
-- 🌱 Currently immersed in mastering data structures, algorithms, and their practical applications
-- 💬 Open to constructive discussions and collaborative problem-solving
+- 🔭 I have a strong interest in Data science, Data Engineering and Software Development
+- 🌱 Currently immersed in mastering skills in data structures and Algorithm as well as my system engineering skills 
+- 💬 Open to learning from other professionals and contributing my skills in helping companies build robust data pipeline
 - 📫 Reach me at bamideletomisiin@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&theme=radical)
 
-## Software & Tools ⚙️
+## Skills & Tools⚙️
 
 <p>
         <a href="#"><img alt="Languages: Python"src="http://img.shields.io/badge/Languages:%20Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
