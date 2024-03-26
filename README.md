@@ -4,7 +4,7 @@
   
 - 🔭 I have a strong interest in Data science, Data Engineering and Software Development
 - 🌱 Currently immersed in mastering skills in data structures and Algorithm as well as my system engineering skills 
-- 💬 Open to learning from other professionals and contributing my skills in helping companies build robust data pipeline
+- 💬 Open to learning from other professionals and contributing my skills in helping companies build and optimize data pipelines that are not only efficient but also scalable, supporting their businesses in making data-driven decisions.
 - 📫 Reach me at bamideletomisiin@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomisi&show_icons=true&theme=radical)
