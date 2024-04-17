@@ -2,14 +2,17 @@
 
 <p align="center">
   
-<li>
 🔭 I am an experienced software engineer with a keen interest in developing scalable systems and softwares by writing clean, efficient and maintainable code.
+
 🚀 On a mission to leverage technology to make a significant impact on lives and enhance socio-economic systems.
+
 🌱 Currently enhancing my skills in data structures and algorithms.
+
 💬 Open to learn from other professionals as well as collaborate on open-source projects.
+
 📫 Feel free to reach out to me at bamideletomisiin@gmail.com
-## 🙋‍♀️ Let's Connect
-</li>
+
+🙋‍♀️ Let's Connect
 
 <p align="center">
 	<a href="mailto:bamideletomisiin@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
