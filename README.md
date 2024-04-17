@@ -2,12 +2,13 @@
 
 <p align="center">
   
-- 🔭 I have a strong interest in Data science, Data Engineering and Software Development
-- 🌱 Currently immersed in mastering skills in data structures and Algorithm as well as my system engineering skills 
-- 💬 Open to learning from other professionals and contributing my skills in helping companies build and optimize data pipelines that are not only efficient but also scalable, supporting their businesses in making data-driven decisions.
-- 📫 Reach me at bamideletomisiin@gmail.com
-
+🔭 I am an experienced software engineer with a keen interest in developing scalable systems and software.
+🚀 On a mission to leverage technology to make a significant impact on lives and enhance socio-economic systems.
+🌱 Currently enhancing my skills in data structures and algorithms.
+💬 Open to learn from other professionals as well as collaborate on open-source projects.
+📫 Feel free to reach out to me at bamideletomisiin@gmail.com
 ## 🙋‍♀️ Let's Connect
+
 <p align="center">
 	<a href="mailto:bamideletomisiin@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/tomisi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
