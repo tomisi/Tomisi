@@ -2,7 +2,8 @@
 
 <p align="center">
   
-<li>🔭 I am an experienced software engineer with a keen interest in developing scalable systems and software.</li>
+<li>🔭 I am an experienced software engineer with a keen interest in developing scalable systems and softwares
+	by writing clean, efficient and maintainable code.</li>
 <li>🚀 On a mission to leverage technology to make a significant impact on lives and enhance socio-economic systems.</li>
 <li>🌱 Currently enhancing my skills in data structures and algorithms.</li>
 <li>💬 Open to learn from other professionals as well as collaborate on open-source projects.</li>
