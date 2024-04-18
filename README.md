@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  
-🔭 I am an experienced software engineer with a keen interest in developing scalable systems and softwares by writing clean, efficient and maintainable code.
 
 🚀 On a mission to leverage technology to make a significant impact on lives and enhance socio-economic systems.
 
