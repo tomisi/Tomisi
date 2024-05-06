@@ -2,7 +2,7 @@
 
 <p align="center">
 
-🚀 On a mission to leverage technology to make a significant impact on lives and enhance socio-economic systems.
+🚀 Empowering business growth with data, one dataset at a time.
 
 🌱 Currently enhancing my skills in data structures and algorithms.
 
