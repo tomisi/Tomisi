@@ -2,7 +2,7 @@
 
 <p align="center">
 
-🚀 Empowering business growth with data, one dataset at a time.
+🚀 Data Analyst with a Multifaceted Approach. Empowering Business Growth, One Dataset at a Time.
 
 🌱 Currently enhancing my skills in data structures and algorithms.
 
