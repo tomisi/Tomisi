@@ -4,8 +4,6 @@
 
 🚀 Data Analyst with a Multifaceted Approach. Empowering Business Growth, One Dataset at a Time.
 
-🌱 Currently enhancing my skills in data structures and algorithms.
-
 💬 Open to learn from other professionals as well as collaborate on open-source projects.
 
 📫 Feel free to reach out to me at bamideletomisiin@gmail.com
