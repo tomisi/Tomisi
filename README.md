@@ -2,9 +2,9 @@
 
 <p align="center">
 
-🚀 Data Analyst with a Multifaceted Approach. Empowering Business Growth, One Dataset at a Time.
+🚀 A self-starter with a passion for data storytelling, creative visualization, and designing scalable systems. Looking forward to uncovering actionable, data-driven insights that make a real impact.
 
-💬 Open to learn from other professionals as well as collaborate on open-source projects.
+💬 Open to learning from other professionals and collaborating on innovative, data-focused projects.
 
 📫 Feel free to reach out to me at bamideletomisiin@gmail.com
 
