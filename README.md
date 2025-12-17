@@ -9,7 +9,7 @@
 📫 Feel free to reach out to me at bamideletomisiin@gmail.com
 
 🙋‍♀️ Let's Connect
-
+https://github.com/tomisi
 <p align="center">
 	<a href="mailto:bamideletomisiin@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/tomisi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
